@@ -65,7 +65,7 @@ The **Vehicle List App** is a Flutter application that displays a list of vehicl
 ## Screenshots
 | Home Screen | Add Vehicle | Search & Delete |
 |------------|------------|----------------|
-| ![Home](assets/screens/home.png) | ![Add Vehicle](assets/screens/add_vehicle.png) | ![Search](assets/screens/search_delete.png) |
+| ![Home](assets/screens/home.png) | ![Add Vehicle](assets/screens/add_vehicle.png) | ![Search](assets/screens/search.png) |
 
 ## Contribution
 Feel free to fork the repository and submit pull requests.
